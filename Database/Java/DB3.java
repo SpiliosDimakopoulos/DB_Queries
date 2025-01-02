@@ -3,9 +3,9 @@ import java.util.Scanner;
 
 public class DB3 {
 
-    private static final String dbName= "DB84"; // Input your database name
-    private static final String dbUser= "G584"; // input user that has access to the database
-    private static final String dbPassword= "348g4_2r0"; // input user's password    
+    private static final String dbName= "dbName"; // Input your database name
+    private static final String dbUser= "dbUser"; // input user that has access to the database
+    private static final String dbPassword= "dbPassword"; // input user's password    
 
     public static void main(String args[]) {
 
